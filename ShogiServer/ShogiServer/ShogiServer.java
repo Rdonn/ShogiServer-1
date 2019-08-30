@@ -1,3 +1,4 @@
+package ShogiServer;
 
 public class ShogiServer 
 {	
